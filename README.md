@@ -20,6 +20,8 @@ My name is **Adinda Ayu Azzahra**. I am currently working as a junior full stack
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"  width="25" height="25"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="25" height="25"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"  width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"  width="25" height="25"/>
+  
  </p>
 
 ### 🔍 You Can Find Me at 
